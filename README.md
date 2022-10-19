@@ -11,7 +11,7 @@
 
 ## Hi there!
 
-Hi, I'm Qubits, if you wants you can call me just Qubit.
+Hi, I'm Qubitsys, if you wants you can call me just Qubit.
 
 ## About me 
 
