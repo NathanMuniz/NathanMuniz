@@ -34,10 +34,6 @@ Nathan Gabriel
 * **University**: Not yet, but I hope to enter a university
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMuniz&layout=compact=NathanMuniz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats): 
-
-
-
 ## Curiosities about me
 
 * Before falling in love with programming, my goal was to be a musician. I spent a considerable part of my life working on it. I got to present together with Guri's Infanto-Youth band at MASP and at the winter festival - Campos do Jordão. Important cultural places in Brazil;
