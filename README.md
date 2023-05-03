@@ -31,7 +31,7 @@ Nathan Gabriel
 * **Age**: 18
 * **Living in**: São Paulo - SP, Brazil
 * **Skill**: Python / PHP / JavaScript / HTML&CSS / 
-* **University**: Not yet, but I hope to enter a university
+* **University**: ADS
 
 
 ## Curiosities about me
