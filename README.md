@@ -28,9 +28,9 @@ Nowadays I'm focused on being the best programmer I can be. Everything I do is f
 Qubitsys
 * **Name**: 
 Nathan Gabriel
-* **Age**: 18
+* **Age**: 19
 * **Living in**: São Paulo - SP, Brazil
-* **Skill**: Python / PHP / JavaScript / HTML&CSS / 
+* **Skill**: Python / PHP / TypeScript / HTML&CSS&JS / NestJs / NodeJs / BAAS / 
 * **University**: ADS
 
 
