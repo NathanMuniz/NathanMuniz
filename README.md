@@ -2,13 +2,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QuBitSysX)
 
 
-
-
-![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanMuniz&show_icons=true&theme=dracula)
-
-
-
-
 ## Hi there!
 
 Hi, I'm Qubitsys, if you wants you can call me just Qubit.
