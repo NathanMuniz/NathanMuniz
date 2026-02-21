@@ -4,11 +4,15 @@
 
 ## Hi there!
 
-Hi, I'm Qubitsys, if you wants you can call me just Qubit.
+Hi, I'm Nathan
+
+## Current occupation
+
+Generative AI Software Developer
 
 ## About me 
 
-My name is Nathan Gabriel. I currently live in São Paulo, Brazil. I have been studying programming for 2-3 years. 
+My name is Nathan Gabriel. I currently live in São Paulo, Brazil. I have been studying programming for 7 years. 
 
 I studied for many years how to learn to learn and I try to apply it to programming.
 Being self-taught is part of my personality and what irritates me the most is not being able to do something. The opposite is also true, I am extremely excited to learn new things.
@@ -21,10 +25,9 @@ Nowadays I'm focused on being the best programmer I can be. Everything I do is f
 Qubitsys
 * **Name**: 
 Nathan Gabriel
-* **Age**: 19
+* **Age**: 21
 * **Living in**: São Paulo - SP, Brazil
-* **Skill**: Python / PHP / TypeScript / HTML&CSS&JS / NestJs / NodeJs / BAAS / 
-* **University**: ADS
+* **Skill**: Fullstack Web Developer -> Python, PHP, NodeJS, React Next | Generate AI Developer -> CrewAI, Langchain, ChromaDB
 
 
 ## Curiosities about me
